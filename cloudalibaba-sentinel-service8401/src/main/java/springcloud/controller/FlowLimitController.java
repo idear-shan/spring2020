@@ -60,7 +60,7 @@ public class FlowLimitController {
     //自定义降级
     public String deal_testHotKey(String p1, String p2,
                              BlockException exception){
-        return "----deal_testHotKey,o(╥﹏╥)o";
+        return "----deal_testHotKey,o(╥﹏╥)odddd";
 
     }
 
